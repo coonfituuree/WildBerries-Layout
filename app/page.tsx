@@ -10,7 +10,6 @@ const Home = () => {
             title: "Носки Adidas",
             price: 39990,
             image: "/adidas_socks.avif",
-            url: "/product/1",
           },
           {
             id: 2,
@@ -23,7 +22,6 @@ const Home = () => {
             title: "Носки Adidas",
             price: 39990,
             image: "/adidas_socks.avif",
-            url: "/product/1"
           },
           {
             id: 4,
@@ -36,7 +34,6 @@ const Home = () => {
             title: "Носки Adidas",
             price: 39990,
             image: "/adidas_socks.avif",
-            url: "/product/1"
           },
           {
             id: 6,
